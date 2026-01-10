@@ -1,6 +1,6 @@
 # Hi there, I'm Doğa Ülkü 👋
 
-**Final Year Industrial Engineering Student @ Manisa Celal Bayar University | AI Enthusiast**
+**Final Year Industrial Engineering Student @ Manisa Celal Bayar University | AI Researcher & Developer**
 
 *Building AI systems that create equal opportunities and solve real-world problems*
 
@@ -35,6 +35,10 @@ Multimodal framework combining deepfake detection with NLP-based Terms of Servic
 Microplastic Impact Explorer using satellite data, ML, and interactive maps. Addresses SDG 5 (Gender Equality) and SDG 13 (Climate Action).
 - **Tech:** Python, scikit-learn, GDAL, PostGIS, Satellite Data Processing
 - **Recognition:** Selected for YTÜ Startup House Pre-Incubation Program
+
+### 🤖 [AI Business School Chatbot](https://github.com/dogaulkua/ai-business-chatbot) - *Enterprise Solution*
+Multilingual chatbot powered by Azure OpenAI (GPT-4.1-mini) with voice interaction and semantic search. Includes Chrome extension for data harvesting.
+- **Tech:** Azure OpenAI, Node.js, TypeScript, Puppeteer, PostgreSQL, Docker
 
 ### 🛡️ [DeepGuard Pro](https://github.com/dogaulkua/deepguard-pro)
 Enterprise AI detection suite with 98.5%+ accuracy. Features multiple neural network models with Azure OpenAI for GDPR/KVKK compliance.
@@ -76,6 +80,11 @@ Enterprise AI detection suite with 98.5%+ accuracy. Features multiple neural net
 ---
 
 ## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dogaulkua&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" height="180">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dogaulkua&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="180">
+</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dogaulkua&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="500">
