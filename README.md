@@ -1,6 +1,6 @@
 # Hi there, I'm Doğa Ülkü 👋
 
-*Final Year Industrial Engineering Student @ Manisa Celal Bayar University | AI Enthusiast
+*Final Year Industrial Engineering Student @ Manisa Celal Bayar University | AI Enthusiast*
 
 *Building AI systems that create equal opportunities and solve real-world problems*
 
