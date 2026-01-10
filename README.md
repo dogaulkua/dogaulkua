@@ -117,9 +117,13 @@ Malatya, Türkiye & Seoul, Republic of Korea.
 
 ## 💬 Let's Connect!
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer&text=Let's%20Collaborate!&fontSize=40&fontColor=fff&animation=twinkling" />
-</p>
+<div align="center">
+  
+  **Let's Collaborate!**
+  
+  ![Divider Line](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=footer&width=100%)
+
+</div>
 
 I'm always open to collaborating on innovative AI projects, research opportunities, or discussing how technology can create positive social impact. Feel free to reach out!
 
@@ -134,6 +138,6 @@ I'm always open to collaborating on innovative AI projects, research opportuniti
 
 *"Building AI systems that create equal opportunities and solve real-world problems"*
 
-[![Profile Views](https://komarev.com/ghpvc/?username=dogaulkua&color=blueviolet&style=flat-square&label=Profile+Views)](https://komarev.com/ghpvc/?username=dogaulkua&color=blueviolet&style=flat-square&label=Profile+Views&label_color=6a0dad)](https://komarev.com/ghpvc/?username=dogaulkua&color=blueviolet&style=for-the-badge&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=dogaulkua&color=blueviolet&style=flat-square&label=Profile+Views)
 
 </div>
