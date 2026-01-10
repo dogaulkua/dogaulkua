@@ -1,6 +1,6 @@
 # Hi there, I'm Doğa Ülkü 👋
 
-**Final Year Industrial Engineering Student @ Manisa Celal Bayar University | AI Enthusiast
+*Final Year Industrial Engineering Student @ Manisa Celal Bayar University | AI Enthusiast
 
 *Building AI systems that create equal opportunities and solve real-world problems*
 
@@ -76,11 +76,6 @@ Enterprise AI detection suite with 98.5%+ accuracy. Features multiple neural net
 ---
 
 ## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dogaulkua&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" height="180">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dogaulkua&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="180">
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dogaulkua&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="500">
