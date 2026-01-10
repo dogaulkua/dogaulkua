@@ -107,7 +107,7 @@ Malatya, Türkiye & Seoul, Republic of Korea.
 
 ## 🌱 Current Focus
 
-- 🧪 Researching **AI-driven object avoidance** for Martian rovers 
+- 🧪 Researching **AI-driven object avoidance** for Martian rovers
 - 🌍 Contributing to **sustainability innovation** as Mercedes-Benz beVisioneers Fellow
 - 👯 Leading **IBM Z community** activities on DevOps and cloud technologies
 - 🤝 Supporting **SDGs** through UNDP volunteering
@@ -137,6 +137,6 @@ I'm always open to collaborating on innovative AI projects, research opportuniti
 
 *"Building AI systems that create equal opportunities and solve real-world problems"*
 
-https://komarev.com/ghpvc/?username=dogaulkua&color=blueviolet&style=flat-square&label=PROFILE+VIEWS
+![Profile Views](https://komarev.com/ghpvc/?username=dogaulkua&color=blueviolet&style=flat-square&label=Profile+Views)
 
 </div>
