@@ -1,16 +1,12 @@
 # Hi there, I'm Doğa Ülkü 👋
 
-<div align="center">
-  
-[![Portfolio](https://img.shields.io/badge/Portfolio-ulkudoga.vercel.app-blueviolet?style=for-the-badge&logo=vercel)](https://ulkudoga.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-dogaulku-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/dogaulku)
-[![Email](https://img.shields.io/badge/Email-dogaulkuaa@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dogaulkuaa@gmail.com)
-
 **Final Year Industrial Engineering Student @ Manisa Celal Bayar University | AI Researcher & Developer**
 
 *Building AI systems that create equal opportunities and solve real-world problems*
 
-</div>
+[![Portfolio](https://img.shields.io/badge/Portfolio-ulkudoga.vercel.app-blueviolet?style=for-the-badge&logo=vercel)](https://ulkudoga.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-dogaulku-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/dogaulku)
+[![Email](https://img.shields.io/badge/Email-dogaulkuaa@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dogaulkuaa@gmail.com)
 
 ---
 
@@ -89,15 +85,14 @@ Enterprise AI detection suite with 98.5%+ accuracy. Features multiple neural net
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dogaulkua&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dogaulkua&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dogaulkua&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170">
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dogaulkua&layout=compact&theme=radical&hide_border=true&bg_color=0D1117)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dogaulkua&theme=radical&hide_border=true&background=0D1117)
-
-</div>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dogaulkua&theme=tokyonight&hide_border=true" alt="GitHub Streak">
+</p>
 
 ---
 
