@@ -133,7 +133,7 @@ I'm always open to collaborating on innovative AI projects, research opportuniti
 ---
 
 *"Building AI systems that create equal opportunities and solve real-world problems"*
-[
-![Profile Views](https://komarev.com/ghpvc/?username=dogaulkua&color=blueviolet&style=flat-square&label=Profile+Views)](https://komarev.com/ghpvc/?username=dogaulkua&color=blueviolet&style=flat-square&label=Profile+Views&label_color=6a0dad)
+
+[![Profile Views](https://komarev.com/ghpvc/?username=dogaulkua&color=blueviolet&style=flat-square&label=Profile+Views)](https://komarev.com/ghpvc/?username=dogaulkua&color=blueviolet&style=flat-square&label=Profile+Views&label_color=6a0dad)](https://komarev.com/ghpvc/?username=dogaulkua&color=blueviolet&style=for-the-badge&label=Profile+Views)
 
 </div>
