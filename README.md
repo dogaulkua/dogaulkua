@@ -1,6 +1,6 @@
 # Hi there, I'm Doğa Ülkü 👋
 
-**Final Year Industrial Engineering Student @ Manisa Celal Bayar University | AI Researcher & Developer**
+**Final Year Industrial Engineering Student @ Manisa Celal Bayar University | AI Enthusiast
 
 *Building AI systems that create equal opportunities and solve real-world problems*
 
@@ -35,10 +35,6 @@ Multimodal framework combining deepfake detection with NLP-based Terms of Servic
 Microplastic Impact Explorer using satellite data, ML, and interactive maps. Addresses SDG 5 (Gender Equality) and SDG 13 (Climate Action).
 - **Tech:** Python, scikit-learn, GDAL, PostGIS, Satellite Data Processing
 - **Recognition:** Selected for YTÜ Startup House Pre-Incubation Program
-
-### 🤖 [AI Business School Chatbot](https://github.com/dogaulkua/ai-business-chatbot) - *Enterprise Solution*
-Multilingual chatbot powered by Azure OpenAI (GPT-4.1-mini) with voice interaction and semantic search. Includes Chrome extension for data harvesting.
-- **Tech:** Azure OpenAI, Node.js, TypeScript, Puppeteer, PostgreSQL, Docker
 
 ### 🛡️ [DeepGuard Pro](https://github.com/dogaulkua/deepguard-pro)
 Enterprise AI detection suite with 98.5%+ accuracy. Features multiple neural network models with Azure OpenAI for GDPR/KVKK compliance.
