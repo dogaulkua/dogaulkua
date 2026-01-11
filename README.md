@@ -20,7 +20,7 @@
 
 <img align="right" alt="Binary Code" width="400" src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif">
 
-I'm passionate about leveraging **AI and Machine Learning** to address critical challenges in healthcare, security, sustainability, and social equity. My work spans from published research in deepfake detection to award-winning solutions in healthcare accessibility and environmental conservation. I also develop **full-stack** applications to bring AI solutions to life, working with technologies like React, Node.js, Python, and Docker.
+I'm passionate about leveraging **AI and Machine Learning** to address critical challenges in healthcare, security, sustainability, and social equity. My work spans from published research in deepfake detection to award-winning solutions in healthcare accessibility and environmental conservation. With expertise in **full-stack development**, I build end-to-end AI-powered applications using modern web technologies, from React frontends to Python backends with Docker deployment.
 
 <br>
 
@@ -156,9 +156,15 @@ Enterprise AI detection suite with 98.5%+ accuracy. Features multiple neural net
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dogaulkua&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="500">
-</p>
+<div align="center">
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dogaulkua&theme=tokyonight&hide_border=true)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dogaulkua&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dogaulkua&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
 
 <br>
 
