@@ -20,7 +20,7 @@
 
 <img align="right" alt="Binary Code" width="400" src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif">
 
-I'm passionate about leveraging **AI and Machine Learning** to address critical challenges in healthcare, security, sustainability, and social equity. My work spans from published research in deepfake detection to award-winning solutions in healthcare accessibility and environmental conservation. With expertise in **full-stack development**, I build end-to-end AI-powered applications using modern web technologies, from React frontends to Python backends with Docker deployment.
+I'm passionate about leveraging **AI and Machine Learning** to address critical challenges in healthcare, security, sustainability, and social equity. My work spans from published research in deepfake detection to award-winning solutions in healthcare accessibility and environmental conservation. I also develop **full-stack** applications to bring AI solutions to life, working with technologies like React, Node.js, Python, and Docker.
 
 <br>
 
