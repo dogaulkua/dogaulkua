@@ -154,7 +154,7 @@ Enterprise AI detection suite with 98.5%+ accuracy. Features multiple neural net
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="35"> 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dogaulkua&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="500">
