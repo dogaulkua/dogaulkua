@@ -164,7 +164,7 @@ Enterprise AI detection suite with 98.5%+ accuracy. Features multiple neural net
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="35"> 🏆 Key Achievements
+## 🏆 Key Achievements
 
 <div align="center">
 
@@ -186,7 +186,7 @@ Enterprise AI detection suite with 98.5%+ accuracy. Features multiple neural net
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="35"> 📝 Latest Research
+## 📝 Latest Research
 
 <div align="center">
 
@@ -207,9 +207,9 @@ Enterprise AI detection suite with 98.5%+ accuracy. Features multiple neural net
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35"> 🌱 Current Focus
+## 🌱 Current Focus
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif">
+<img align="right" alt="AI Research" width="400" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png">
 
 - 🧪 Researching **AI-driven object avoidance** for Martian rovers
 - 🌍 Contributing to **sustainability innovation** as Mercedes-Benz beVisioneers Fellow
@@ -253,6 +253,6 @@ I'm always open to collaborating on innovative AI projects, research opportuniti
 
 <div align="center">
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&animation=twinkling)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=150&section=footer&text=Let's%20Collaborate!&fontSize=40&fontColor=1a1b27&fontAlign=50&fontAlignY=65&desc=Building%20the%20future%20together%20🚀&descSize=20&descAlignY=85&animation=twinkling)
 
 </div>
