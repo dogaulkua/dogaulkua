@@ -18,7 +18,7 @@
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30"> 🎯 About Me
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
 
 I'm passionate about leveraging **AI and Machine Learning** to address critical challenges in healthcare, security, sustainability, and social equity. My work spans from published research in deepfake detection to award-winning solutions in healthcare accessibility and environmental conservation.
 
@@ -157,13 +157,7 @@ Enterprise AI detection suite with 98.5%+ accuracy. Features multiple neural net
 ## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="35"> 📊 GitHub Stats
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=dogaulkua&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=dogaulkua&theme=tokyonight&hide_border=true" />
-</div>
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dogaulkua&layout=compact&theme=tokyonight&hide_border=true" />
-  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=dogaulkua&theme=tokyo-night&hide_border=true&area=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dogaulkua&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="500">
 </div>
 
 <br>
@@ -215,7 +209,7 @@ Enterprise AI detection suite with 98.5%+ accuracy. Features multiple neural net
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35"> 🌱 Current Focus
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif">
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif">
 
 - 🧪 Researching **AI-driven object avoidance** for Martian rovers
 - 🌍 Contributing to **sustainability innovation** as Mercedes-Benz beVisioneers Fellow
