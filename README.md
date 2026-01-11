@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Hi%20there,%20I'm%20Doğa%20Ülkü%20👋&fontSize=50&fontAlignY=35&desc=Building%20AI%20systems%20that%20create%20equal%20opportunities&descAlignY=51&descAlign=50&animation=twinkling)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:EC4899&height=300&section=header&text=Hi%20there,%20I'm%20Doğa%20Ülkü%20👋&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Building%20AI%20systems%20that%20create%20equal%20opportunities&descAlignY=51&descAlign=50&animation=fadeIn)
 
 </div>
 
@@ -18,9 +18,9 @@
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30"> 🎯 About Me
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
+<img align="right" alt="Binary Code" width="400" src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif">
 
-I'm passionate about leveraging **AI and Machine Learning** to address critical challenges in healthcare, security, sustainability, and social equity. My work spans from published research in deepfake detection to award-winning solutions in healthcare accessibility and environmental conservation.
+I'm passionate about leveraging **AI and Machine Learning** to address critical challenges in healthcare, security, sustainability, and social equity. My work spans from published research in deepfake detection to award-winning solutions in healthcare accessibility and environmental conservation. With expertise in **full-stack development**, I build end-to-end AI-powered applications using modern web technologies, from React frontends to Python backends with Docker deployment.
 
 <br>
 
@@ -157,7 +157,11 @@ Enterprise AI detection suite with 98.5%+ accuracy. Features multiple neural net
 ## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="35"> 📊 GitHub Stats
 
 <div align="center">
+  
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dogaulkua&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="500">
+</p>
+
 </div>
 
 <br>
