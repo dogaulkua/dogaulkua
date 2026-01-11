@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:EC4899&height=300&section=header&text=Hi%20there,%20I'm%20Doğa%20Ülkü%20👋&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Building%20AI%20systems%20that%20create%20equal%20opportunities&descAlignY=51&descAlign=50&animation=fadeIn)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=300&section=header&text=Hi%20there,%20I'm%20Doğa%20Ülkü%20👋&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Building%20AI%20systems%20that%20create%20equal%20opportunities&descAlignY=51&descAlign=50&animation=fadeIn)
 
 </div>
 
@@ -156,13 +156,9 @@ Enterprise AI detection suite with 98.5%+ accuracy. Features multiple neural net
 
 ## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="35"> 📊 GitHub Stats
 
-<div align="center">
-  
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dogaulkua&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="500">
 </p>
-
-</div>
 
 <br>
 
