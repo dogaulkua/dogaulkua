@@ -6,7 +6,7 @@
 
 <div align="center">
 
-### 🎓 Final Year Industrial Engineering Student @ Manisa Celal Bayar University | AI Enthusiast
+### 🎓 Industrial Engineer | AI Enthusiast
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Building+AI+systems+that+create+equal+opportunities;and+solve+real-world+problems)](https://git.io/typing-svg)
 
